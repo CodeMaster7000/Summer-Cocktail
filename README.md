@@ -1,6 +1,6 @@
 # Summer Cocktail
 
-A colourful HTML and SCSS animated cocktail, celebrating the arrival of meteorological summer in the Northern hemisphere.
+A colourful HTML and SCSS animated cocktail, celebrating the arrival of meteorological summer in the Northern Hemisphere.
 
 To view the animation, simply download `src` and run in your terminal. Enjoy!
 
